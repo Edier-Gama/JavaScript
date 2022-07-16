@@ -142,3 +142,7 @@ if (edad > 90) {
 // En una sola linea
 
 edad > 90 ? document.write('Tienes mas de 90'): document.write('Tienes menos de 90')
+
+
+
+//La sentencia swit
